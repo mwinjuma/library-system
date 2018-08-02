@@ -1,0 +1,40 @@
+.sidebar-nav {
+    height: 100%;
+    width: 200px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #ccccb3;
+    overflow-x: hidden;
+    padding-top: 60px;
+    color: #ccccb3;
+    font-size: 18px;
+    font-family: Verdana, Geneva, sans-serif;
+
+}
+
+.fa{
+    color: #1e1d30;
+    height: 28px;
+    
+
+
+}
+
+.mama{
+	margin-top: 40px;
+}
+.list-group-item{
+    background-color: #cec790;
+
+}
+
+.col-md-8{
+    margin-top: 1%;
+    margin-left: 22%;
+}
+
+ nav.navbar.navbar-inverse.navbar-fixed-top{
+    background-image: url("/images/logo.jpg");
+ }
